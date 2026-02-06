@@ -1,0 +1,216 @@
+"tab.projects" = "Проекты";
+"tab.measure" = "Измерить";
+"tab.settings" = "Настройки";
+
+"projects.title" = "Проекты";
+"projects.empty" = "Нет проектов";
+"projects.empty.description" = "Создайте новый проект для начала измерений";
+"projects.new" = "Новый проект";
+"projects.cancel" = "Отмена";
+"projects.create" = "Создать";
+"projects.name.placeholder" = "Например: Квартира на Ленина 5";
+"projects.measurements" = "измерений";
+
+"measurement.title" = "Измерение";
+"measurement.room.scan" = "Сканирование комнаты";
+"measurement.room.scan.description" = "Автоматическое 3D сканирование помещения с определением стен, окон и дверей";
+"measurement.manual" = "Ручное измерение";
+"measurement.manual.description" = "Измерение расстояния между точками с помощью AR";
+"measurement.tips.title" = "Советы для точных измерений:";
+"measurement.tip.lighting" = "Обеспечьте хорошее освещение";
+"measurement.tip.movement" = "Медленно перемещайте устройство";
+"measurement.tip.camera" = "Держите камеру перпендикулярно поверхности";
+"measurement.tip.distance" = "Начинайте с небольших расстояний";
+"measurement.surface.angle" = "Проверьте угол наклона поверхности";
+"measurement.level" = "Уровень";
+
+"ar.status.excessive.motion" = "Слишком быстрое движение";
+"ar.status.insufficient.features" = "Недостаточно особенностей";
+"ar.status.initializing" = "Инициализация...";
+"ar.status.relocalizing" = "Релокализация...";
+"ar.instruction.second" = "Выберите вторую точку и нажмите +";
+"ar.measurement" = "Измерение";
+"ar.result" = "Результат";
+"ar.details" = "Детали";
+
+"room.scan.ready" = "Готов к сканированию";
+"room.scan.scanning" = "Сканирование...";
+"room.scan.processing" = "Обработка...";
+"room.scan.complete" = "Готово!";
+"room.scan.error" = "Ошибка сканирования";
+"room.scan.processing.error" = "Ошибка обработки";
+"room.scan.start" = "Начать";
+"room.scan.stop" = "Завершить";
+"room.scan.instruction.move" = "Медленно перемещайте iPhone вдоль стен";
+"room.scan.not.supported" = "RoomPlan недоступен";
+"room.scan.camera.access" = "Нет доступа к камере";
+
+"project.info" = "Информация";
+"project.created" = "Создан";
+"project.rooms" = "Комнаты";
+"project.total.area" = "Общая площадь";
+"project.export" = "Экспорт";
+"project.export.pdf" = "PDF отчёт";
+"project.add.room" = "Добавить комнату";
+"project.room.name" = "Название комнаты";
+"project.detail.no.rooms" = "Нет комнат";
+"project.detail.no.rooms.description" = "Создайте комнату для продолжения";
+"project.detail.time" = "Сканирование занимает 1–3 минуты";
+
+"room.measurements" = "Измерения";
+"room.area" = "Площадь";
+"room.height" = "Высота";
+"room.walls" = "Стены";
+"room.windows" = "Окна";
+"room.doors" = "Двери";
+"room.add.measurement" = "Рулетка";
+
+"room.results.title" = "Результаты сканирования";
+"room.results.save" = "Сохранить";
+"room.length" = "Общая длина";
+"room.wall" = "Стена";
+"room.door" = "Дверь";
+"room.window" = "Окно";
+"room.results.export.3d" = "Экспорт 3D модели";
+"room.ar.view" = "AR представление";
+
+"save.name" = "Название";
+"save.name.placeholder" = "Введите название";
+"save.notes" = "Заметки";
+"save.notes.placeholder" = "Дополнительная информация";
+"save.distance" = "Расстояние";
+"save.select.project" = "Выберите проект";
+"save.select.room" = "Выберите комнату";
+"save.create.room" = "Создать комнату";
+
+"settings.title" = "Настройки";
+"settings.main" = "Основное";
+"settings.measurements" = "Измерения";
+"settings.units" = "Единицы измерения";
+"settings.units.metric" = "(м, см)";
+"settings.units.imperial" = "(фт, д)";
+"settings.haptic" = "Тактильная обратная связь";
+"settings.data" = "Данные";
+"settings.storage" = "Хранилище";
+"settings.storage.manage" = "Управление";
+"settings.language" = "Язык";
+"settings.auto.flashlight" = "Автовключение фонарика";
+"settings.auto.flashlight.hint" = "Фонарик автоматически включается при плохом освещении во время измерений";
+
+"storage.title" = "Хранилище";
+"storage.usage" = "Использование хранилища";
+"storage.projects" = "Проектов";
+"storage.measurements" = "Измерений";
+"storage.size" = "Размер данных";
+"storage.calculating" = "Подсчёт...";
+"storage.clear.all" = "Удалить все данные";
+"storage.clear.confirm" = "Удалить все данные?";
+"storage.clear.message" = "Это действие удалит все проекты и измерения. Его нельзя отменить.";
+
+"object.scan" = "3D Объект";
+"object.scan.description" = "Быстрое измерение ширины и высоты объекта одним движением";
+"object.measure.hint" = "Постройте область вокруг объекта";
+
+"common.cancel" = "Отмена";
+"common.save" = "Сохранить";
+"common.delete" = "Удалить";
+"common.done" = "Готово";
+"common.close" = "Закрыть";
+"common.ok" = "ОК";
+"common.error" = "Ошибка";
+
+"unit.meters" = "м";
+"unit.centimeters" = "см";
+"unit.feet" = "фт";
+"unit.inches" = "дюйм";
+"unit.square.meters" = "м²";
+"unit.square.feet" = "фт²";
+"unit.cubic.meters" = "м³";
+"unit.cubic.feet" = "фт³";
+
+"language.russian" = "Русский";
+"language.english" = "English";
+
+"project.detail.rename" = "Переименовать";
+"project.detail.export" = "Экспорт";
+"project.detail.information" = "Информация";
+"project.detail.rooms.count" = "Комнаты (%d)";
+"project.detail.statistics" = "Статистика";
+"project.detail.total.volume" = "Общий объём";
+"project.detail.3d.scan" = "3D сканирование";
+"project.detail.project.name" = "Название проекта";
+"project.detail.new.name" = "Новое название";
+"project.detail.loading.3d" = "Загрузка 3D модели...";
+"project.detail.loading.error" = "Ошибка загрузки";
+"project.detail.3d.model" = "3D модель";
+"project.detail.notes.title" = "Заметки";
+"project.detail.room.notes" = "Заметки о комнате";
+"project.detail.can.add.later" = "Вы сможете добавлять комнаты и измерения в проект позже";
+"project.detail.file.size" = "Размер";
+"project.detail.add.notes" = "Добавить заметки";
+"project.detail.actions" = "Действия";
+"project.detail.rescan.room" = "Пересканировать комнату";
+
+"ar.measurement.first.point" = "Наведите на первую точку и нажмите +";
+"ar.measurement.second.point" = "Наведите на вторую точку и нажмите +";
+"ar.measurement.clear" = "Очистить";
+"ar.measurement.point" = "Точка";
+"ar.measurement.tracking.ready" = "Готов";
+"ar.measurement.tracking.unavailable" = "Отслеживание недоступно";
+"ar.measurement.tracking.excessive.motion" = "Слишком быстрое движение";
+"ar.measurement.tracking.insufficient.features" = "Недостаточно особенностей";
+"ar.measurement.tracking.initializing" = "Инициализация...";
+"ar.measurement.tracking.relocalizing" = "Релокализация...";
+"ar.measurement.tracking.limited" = "Ограниченное отслеживание";
+"ar.measurement.tracking.error" = "Ошибка AR";
+"ar.measurement.tracking.stopped" = "Остановлено";
+"ar.measurement.tracking.interrupted" = "Прервано";
+
+"project.selector.title" = "Выбор проекта";
+"project.selector.cancel" = "Отмена";
+"project.selector.3d.scan" = "3D Сканирование комнаты";
+"project.selector.manual.measurement" = "Ручное измерение";
+"project.selector.select.project.room" = "Выберите проект и комнату для сохранения результата";
+"project.selector.no.projects" = "Нет проектов";
+"project.selector.create.project.message" = "Создайте новый проект для начала измерений";
+"project.selector.create.project" = "Создать проект";
+"project.selector.project" = "Проект";
+"project.selector.create" = "Создать";
+"project.selector.room.required" = "Комната";
+"project.selector.room.add" = "Добавить";
+"project.selector.no.rooms" = "Нет комнат в проекте";
+"project.selector.create.room.continue" = "Создайте комнату для продолжения";
+"project.selector.proceed" = "Продолжить";
+"project.selector.select.room.first" = "Сначала выберите комнату";
+"project.selector.new.project.title" = "Новый проект";
+"project.selector.project.info" = "Информация о проекте";
+"project.selector.project.name.placeholder" = "Например: Квартира на Ленина 5";
+"project.selector.new.room.title" = "Новая комната";
+"project.selector.room.name.title" = "Название комнаты";
+"project.selector.room.name.placeholder" = "Например: Гостиная, Кухня, Спальня";
+"project.selector.popular.names" = "Популярные названия:";
+"project.selector.room.living" = "Гостиная";
+"project.selector.room.kitchen" = "Кухня";
+"project.selector.room.bedroom" = "Спальня";
+"project.selector.room.bathroom" = "Ванная";
+"project.selector.room.hallway" = "Коридор";
+"project.selector.room.balcony" = "Балкон";
+"project.selector.add.button" = "Добавить";
+
+"save.measurement.title" = "Сохранить измерение";
+
+"settings.theme" = "Тема";
+"theme.light.mode" = "Светлая";
+"theme.dark.mode" = "Тёмная";
+
+"floor.plan.title" = "План помещения";
+"floor.door" = "Дверь";
+"floor.window" = "Окно";
+"floor.share" = "Поделиться";
+
+"space.title" = "Space";
+"3d.object.title" = "3D Object";
+"ruler.title" = "Ruler";
+"level.title" = "Level";
+
+"object.scan.tool.title" = "3D Скан";

@@ -1,0 +1,216 @@
+"tab.projects" = "Projects";
+"tab.measure" = "Measure";
+"tab.settings" = "Settings";
+
+"projects.title" = "Projects";
+"projects.empty" = "No Projects";
+"projects.empty.description" = "Create a new project to start measuring";
+"projects.new" = "New Project";
+"projects.cancel" = "Cancel";
+"projects.create" = "Create";
+"projects.name.placeholder" = "e.g.: Apartment on Lenin 5";
+"projects.measurements" = "measurements";
+
+"measurement.title" = "Measurement";
+"measurement.room.scan" = "Room Scan";
+"measurement.room.scan.description" = "Automatic 3D room scanning with wall, window and door detection";
+"measurement.manual" = "Manual Measurement";
+"measurement.manual.description" = "Measure distance between points using AR";
+"measurement.tips.title" = "Tips for accurate measurements:";
+"measurement.tip.lighting" = "Ensure good lighting";
+"measurement.tip.movement" = "Move device slowly";
+"measurement.tip.camera" = "Keep camera perpendicular to surface";
+"measurement.tip.distance" = "Start with small distances";
+"measurement.surface.angle" = "Check surface angle";
+"measurement.level" = "Level";
+
+"ar.status.excessive.motion" = "Too much movement";
+"ar.status.insufficient.features" = "Insufficient features";
+"ar.status.initializing" = "Initializing...";
+"ar.status.relocalizing" = "Relocalizing...";
+"ar.instruction.second" = "Point to second location and tap +";
+"ar.measurement" = "Measurement";
+"ar.result" = "Result";
+"ar.details" = "Details";
+
+"room.scan.ready" = "Ready to scan";
+"room.scan.scanning" = "Scanning...";
+"room.scan.processing" = "Processing...";
+"room.scan.complete" = "Complete!";
+"room.scan.error" = "Scan error";
+"room.scan.processing.error" = "Processing error";
+"room.scan.start" = "Start";
+"room.scan.stop" = "Finish";
+"room.scan.instruction.move" = "Slowly move iPhone along the walls";
+"room.scan.not.supported" = "RoomPlan unavailable";
+"room.scan.camera.access" = "No camera access";
+
+"project.info" = "Information";
+"project.created" = "Created";
+"project.rooms" = "Rooms";
+"project.total.area" = "Total area";
+"project.export" = "Export";
+"project.export.pdf" = "PDF Report";
+"project.add.room" = "Add Room";
+"project.room.name" = "Room Name";
+"project.detail.no.rooms" = "No rooms";
+"project.detail.no.rooms.description" = "Create a room to continue";
+"project.detail.time" = "Scan takes 1-3 minutes";
+
+"room.measurements" = "Measurements";
+"room.area" = "Area";
+"room.height" = "Height";
+"room.walls" = "Walls";
+"room.windows" = "Windows";
+"room.doors" = "Doors";
+"room.add.measurement" = "Ruler";
+"room.results.export.3d" = "Export 3D Model";
+"room.ar.view" = "AR View";
+
+"room.results.title" = "Scan Results";
+"room.results.save" = "Save";
+"room.length" = "Total length";
+"room.wall" = "Wall";
+"room.door" = "Door";
+"room.window" = "Window";
+
+"save.name" = "Name";
+"save.name.placeholder" = "Enter name";
+"save.notes" = "Notes";
+"save.notes.placeholder" = "Additional information";
+"save.distance" = "Distance";
+"save.select.project" = "Select Project";
+"save.select.room" = "Select Room";
+"save.create.room" = "Create Room";
+
+"settings.title" = "Settings";
+"settings.main" = "General";
+"settings.measurements" = "Measurements";
+"settings.units" = "Units";
+"settings.units.metric" = "(m, cm)";
+"settings.units.imperial" = "(ft, in)";
+"settings.haptic" = "Haptic Feedback";
+"settings.data" = "Data";
+"settings.storage" = "Storage";
+"settings.storage.manage" = "Manage";
+"settings.language" = "Language";
+"settings.auto.flashlight" = "Auto Flashlight";
+"settings.auto.flashlight.hint" = "Flashlight turns on automatically in low light during measurements";
+
+"storage.title" = "Storage";
+"storage.usage" = "Storage Usage";
+"storage.projects" = "Projects";
+"storage.measurements" = "Measurements";
+"storage.size" = "Data Size";
+"storage.calculating" = "Calculating...";
+"storage.clear.all" = "Clear All Data";
+"storage.clear.confirm" = "Clear all data?";
+"storage.clear.message" = "This will delete all projects and measurements. This cannot be undone.";
+
+"object.scan" = "3D Object";
+"object.scan.description" = "Quickly measure width and height of object in one motion";
+"object.measure.hint" = "Build area around object";
+
+"common.cancel" = "Cancel";
+"common.save" = "Save";
+"common.delete" = "Delete";
+"common.done" = "Done";
+"common.close" = "Close";
+"common.ok" = "OK";
+"common.error" = "Error";
+
+"unit.meters" = "m";
+"unit.centimeters" = "cm";
+"unit.feet" = "ft";
+"unit.inches" = "in";
+"unit.square.meters" = "m²";
+"unit.square.feet" = "ft²";
+"unit.cubic.meters" = "m³";
+"unit.cubic.feet" = "ft³";
+
+"language.russian" = "Русский";
+"language.english" = "English";
+
+"project.detail.rename" = "Rename";
+"project.detail.export" = "Export";
+"project.detail.information" = "Information";
+"project.detail.rooms.count" = "Rooms (%d)";
+"project.detail.statistics" = "Statistics";
+"project.detail.total.volume" = "Total Volume";
+"project.detail.3d.scan" = "3D Scan";
+"project.detail.project.name" = "Project Name";
+"project.detail.new.name" = "New Name";
+"project.detail.loading.3d" = "Loading 3D model...";
+"project.detail.loading.error" = "Loading Error";
+"project.detail.3d.model" = "3D Model";
+"project.detail.notes.title" = "Notes";
+"project.detail.room.notes" = "Room Notes";
+"project.detail.can.add.later" = "You can add rooms and measurements to the project later";
+"project.detail.file.size" = "Size";
+"project.detail.add.notes" = "Add notes";
+"project.detail.actions" = "Actions";
+"project.detail.rescan.room" = "Rescan Room";
+
+"ar.measurement.first.point" = "Point to first location and tap +";
+"ar.measurement.second.point" = "Point to second location and tap +";
+"ar.measurement.clear" = "Clear";
+"ar.measurement.point" = "Point";
+"ar.measurement.tracking.ready" = "Ready";
+"ar.measurement.tracking.unavailable" = "Tracking unavailable";
+"ar.measurement.tracking.excessive.motion" = "Too much movement";
+"ar.measurement.tracking.insufficient.features" = "Insufficient features";
+"ar.measurement.tracking.initializing" = "Initializing...";
+"ar.measurement.tracking.relocalizing" = "Relocalizing...";
+"ar.measurement.tracking.limited" = "Limited tracking";
+"ar.measurement.tracking.error" = "AR Error";
+"ar.measurement.tracking.stopped" = "Stopped";
+"ar.measurement.tracking.interrupted" = "Interrupted";
+
+"project.selector.title" = "Select Project";
+"project.selector.cancel" = "Cancel";
+"project.selector.3d.scan" = "3D Room Scanning";
+"project.selector.manual.measurement" = "Manual Measurement";
+"project.selector.select.project.room" = "Select a project and room to save results";
+"project.selector.no.projects" = "No Projects";
+"project.selector.create.project.message" = "Create a new project to start measuring";
+"project.selector.create.project" = "Create Project";
+"project.selector.project" = "Project";
+"project.selector.create" = "Create";
+"project.selector.room.required" = "Room";
+"project.selector.room.add" = "Add";
+"project.selector.no.rooms" = "No rooms in project";
+"project.selector.create.room.continue" = "Create a room to continue";
+"project.selector.proceed" = "Proceed";
+"project.selector.select.room.first" = "Select a room first";
+"project.selector.new.project.title" = "New Project";
+"project.selector.project.info" = "Project Information";
+"project.selector.project.name.placeholder" = "e.g.: Apartment on Lenin 5";
+"project.selector.new.room.title" = "New Room";
+"project.selector.room.name.title" = "Room Name";
+"project.selector.room.name.placeholder" = "e.g.: Living Room, Kitchen, Bedroom";
+"project.selector.popular.names" = "Popular names:";
+"project.selector.room.living" = "Living Room";
+"project.selector.room.kitchen" = "Kitchen";
+"project.selector.room.bedroom" = "Bedroom";
+"project.selector.room.bathroom" = "Bathroom";
+"project.selector.room.hallway" = "Hallway";
+"project.selector.room.balcony" = "Balcony";
+"project.selector.add.button" = "Add";
+
+"save.measurement.title" = "Save Measurement";
+
+"settings.theme" = "Theme";
+"theme.light.mode" = "Light";
+"theme.dark.mode" = "Dark";
+
+"floor.plan.title" = "Floor Plan";
+"floor.door" = "Door";
+"floor.window" = "Window";
+"floor.share" = "Share";
+
+"space.title" = "Space";
+"3d.object.title" = "3D Object";
+"ruler.title" = "Ruler";
+"level.title" = "Level";
+
+"object.scan.tool.title" = "3D Scan";

@@ -1,0 +1,37 @@
+{
+  "configurations" : [
+    {
+      "id" : "5A3CAEE9-D49E-4603-9B8D-1C62AADA38F9",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Room Measure.xcodeproj",
+      "identifier" : "A8F60CCD2F35A8BD00ED4C51",
+      "name" : "Room Measure"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Room Measure.xcodeproj",
+        "identifier" : "A87A51E42F374F31007CD8C0",
+        "name" : "RoomMeasureTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Room Measure.xcodeproj",
+        "identifier" : "A87A51F12F374F4E007CD8C0",
+        "name" : "RoomMeasureUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
